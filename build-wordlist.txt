@@ -1,0 +1,9 @@
+/.circleci/config.yml
+/.dockerignore
+/.travis.yml
+/Dockerfile
+/Vagrantfile
+/build.sbt
+/docker.sbt
+/gradle/wrapper/gradle-wrapper.properties
+/package.sbt
